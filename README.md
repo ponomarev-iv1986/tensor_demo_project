@@ -3,12 +3,7 @@
 ![This is an image](design/images/homepage.png)
 
 ### Стек технологий:
-<img src="design/icons/python-original-wordmark.svg" height="40" width="40" />
-<img src="design/icons/selenium-original.svg" height="40" width="40" />
-<img src="design/icons/Allure_Report.png" height="40" width="40" />
-<img src="design/icons/jenkins-original.svg" height="40" width="40" />
-<img src="design/icons/Selenoid.png" height="40" width="40" />
-<img src="design/icons/Telegram.png" height="40" width="40" />
+<img src="design/icons/python-original-wordmark.svg" height="40" width="40" /><img src="design/icons/selenium-original.svg" height="40" width="40" /><img src="design/icons/Allure_Report.png" height="40" width="40" /><img src="design/icons/jenkins-original.svg" height="40" width="40" /><img src="design/icons/Selenoid.png" height="40" width="40" /><img src="design/icons/Telegram.png" height="40" width="40" />
 
 #### Запуск автотеста производится удаленно на сервере <a target="_blank" href="https://selenoid.autotests.cloud/#/">Selenoid</a> при помощи написанной в Jenkins <a target="_blank" href="https://jenkins.autotests.cloud/job/Ponomarev_IV_Tensor_Test/">джобы</a>.
 
