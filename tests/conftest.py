@@ -23,8 +23,8 @@ def browser_management():
             'browserName': 'chrome',
             'browserVersion': '100',
             'selenoid:options': {
-                'enableVNC': False,
-                'enableVideo': False
+                'enableVNC': True,
+                'enableVideo': True
             }
         }
         options.capabilities.update(selenoid_capabilities)
