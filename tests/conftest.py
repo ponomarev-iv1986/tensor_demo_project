@@ -14,7 +14,7 @@ def browser_management():
         browser.config.window_width = 1400
         browser.config.window_height = 800
         driver_options = webdriver.ChromeOptions()
-        browser.config.driver = driver_options
+        browser.config.driver_options = driver_options
 
     else:
         browser.config.base_url = 'https://tensor.ru'
